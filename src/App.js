@@ -6,8 +6,8 @@ import React, { useState } from "react";
 const dummyData = [
   {
     id: 'e1',
-    title: 'Toilet Paper',
-    amount: 94.12,
+    title: 'apple pencil',
+    amount: 8500,
     date: new Date(2020, 7, 14),
   },
   { id: 'e2', title: 'New TV', amount: 799.49, date: new Date(2021, 2, 12) },
